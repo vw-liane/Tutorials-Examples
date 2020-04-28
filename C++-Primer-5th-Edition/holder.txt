@@ -1,2 +1,7 @@
 Now we begin our return to C++! 
 :D!
+
+Using:
+https://repl.it/languages/cpp
+https://www.onlinegdb.com/online_c++_compiler
+
